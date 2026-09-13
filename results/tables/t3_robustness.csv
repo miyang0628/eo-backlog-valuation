@@ -1,0 +1,7 @@
+variant,n,beta_backlog,se_backlog,p_backlog
+HC1 (heterosk.),40,0.405,0.195,0.0383
+Cluster by firm,40,0.405,0.073,0.0
+drop BKSY,27,0.267,0.336,0.4263
+drop PL,27,0.282,0.245,0.2509
+drop SPIR,26,0.501,0.265,0.0588
+within-firm demeaned,40,0.491,0.178,0.0058

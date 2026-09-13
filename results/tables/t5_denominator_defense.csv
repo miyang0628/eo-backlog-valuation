@@ -1,0 +1,5 @@
+spec,regressor,beta,se,p_HC1,n
+(1) Baseline (firm+year FE),backlog_depth,0.4049,0.1954,0.0383,40
+(2) + control log(TTM revenue),backlog_depth,0.6603,0.2155,0.0022,40
+"(3) LHS=log(EV), revenue on RHS",backlog_depth,0.6603,0.2155,0.0022,40
+(4) Per-share: log(price)~RPO/share,rpo_ps,0.0113,0.0365,0.7562,40

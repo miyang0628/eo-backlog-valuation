@@ -1,0 +1,4 @@
+ticker,firm,n,ev_sales_mean,ev_sales_sd,backlog_depth_mean,growth_mean
+PL,Planet Labs,13,8.82,10.43,1.31,0.37
+BKSY,BlackSky,13,20.42,15.6,3.08,0.52
+SPIR,Spire Global,14,9.78,12.65,2.14,0.36
